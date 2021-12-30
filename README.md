@@ -13,6 +13,8 @@ For every map I create I will do one with and one without the grid. So pick the 
 
 Grid size for now will always be 70x70, if I change it I will make a note of it to the map.
 
+Maps below are listed as JPEG files but when I create maps that make use of Line-of-sight or dynamic lighting I will publish them in a zip file containing the basic image for those who prefer it and a version to use in Fantasy Grounds with LoS set on the map.
+
 ### LMoP Maps
 - [x] LMoP - Goblin Ambush.jpg : the first actual encounter in the campaign.  
 - [ ] LMoP - Old Owl Well.jpg : Missing map in the campaign so I will make my own.  
