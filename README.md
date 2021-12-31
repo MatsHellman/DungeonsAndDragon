@@ -17,11 +17,11 @@ Maps below are listed as JPEG files but when I create maps that make use of Line
 
 ### LMoP Maps
 
-- [x] LMoP - Goblin Ambush.jpg : the first actual encounter in the campaign.
+- [x] LMoP - Goblin Ambush.jpg : the first actual encounter in the campaign. Simple JPG files and version with and without the grid.
 
 - [x] LMoP - Old Owl Well.rar : Compressed file contains jpg, png, d2vtt files and Line of sight files for Fantasy Grounds.  
 
-- [ ] LMoP - Agathas Lair.jpg : Missing map in the campaign so I will make my own.  
+- [x] LMoP - Agathas Lair.jpg : Map for Agathas lair, it's a simple one so only JPG images and as always 2 versions, one with and one without a grid. 
 
 - [ ] LMoP - Wyvern Tor.jpg : Missing map in the campaign so I will make my own.
 
